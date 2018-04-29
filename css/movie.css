@@ -1,0 +1,45 @@
+
+.movtr0 td{
+	font-size: 30px;
+	color: #444444;
+	text-indent: 30px;
+	padding: 10px;
+}
+.movtr1 img{
+	width: 150px;
+	height: 200px;
+}
+
+.movtr1 td{
+	text-align: center;
+	width: 300px;
+}
+.movtr1 a{
+	text-decoration: none;
+	color: #444444;
+}
+.movtr1 a:hover{
+	color: #EC4E8B;
+}
+.movdiv1 input{
+	background-color: #F076A5;	
+	border-radius: 12px;
+	width: 180px;
+	height:38px;
+	color: white;
+	border: 0px;
+	font-size: 18px;
+	
+}
+.movdiv1{
+	width: 100%;
+	text-align: center;
+	padding-top: 20px ;
+}
+.movdiv1 input:hover{
+	background-color: #EC4E8B;
+}
+#movdiv2{
+	display: none;
+}
+

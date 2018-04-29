@@ -1,0 +1,150 @@
+
+
+.musictr1 td{
+	color: #444444;
+	font-size: 30px;
+	text-indent: 40px;
+	padding-top: 20px;
+}
+.musictr2 img{
+	width: 230px;
+	height: 230px;
+}
+
+.musictr2 td{
+	text-align: center;
+	width: 400px;
+	padding-top: 30px;
+}
+
+.musidiv1{
+	width: 230px;
+	height: 230px;
+	position: relative;
+	margin: 0 auto;
+}
+.musidiv3,.musidiv4{
+	position: absolute;
+	display: none;
+	width: 230px;
+	height: 230px;
+	overflow: hidden;
+	
+	
+}
+
+.musidiv1:hover .musidiv4{
+	display: block;	
+	
+}
+.musidiv1:hover .musidiv3{
+	display: block;	
+	background-color: #444444;
+	opacity: 0.4;
+
+}
+.musidiv4 iframe{
+	
+	border: 0;
+	position: relative;
+}
+.geci1{	
+	width: 245px;
+	height: 4600px;		
+	animation: geciflow1 180s linear infinite ;
+	
+}
+@-webkit-keyframes geciflow1{
+	from{top: 0px;}
+	to{top: -4600px;}
+}
+
+.geci2{	
+	width: 234px;
+	height: 3000px;		
+	animation: geciflow2 200s linear infinite ;
+	
+}
+@-webkit-keyframes geciflow2{
+	from{top: 0px;}
+	to{top: -3000px;}
+}
+
+.geci3{	
+	width: 245px;
+	height: 2800px;		
+	animation: geciflow3 200s linear infinite ;
+	
+}
+@-webkit-keyframes geciflow3{
+	from{top: 0px;}
+	to{top: -2800px;}
+}
+
+.geci4{	
+	width: 245px;
+	height: 3500px;		
+	animation: geciflow4 170s linear infinite ;
+	
+}
+@-webkit-keyframes geciflow4{
+	from{top: 0px;}
+	to{top: -3500px;}
+}
+
+.geci5{	
+	width: 245px;
+	height: 3000px;		
+	animation: geciflow5 160s linear infinite ;
+	
+}
+@-webkit-keyframes geciflow5{
+	from{top: 0px;}
+	to{top: -3000px;}
+}
+
+.geci6{	
+	width: 230px;
+	height: 1900px;		
+	animation: geciflow6 350s linear infinite ;
+	
+}
+@-webkit-keyframes geciflow6{
+	from{top: 0px;}
+	to{top: -1900px;}
+}
+section span{
+	color:#444444 ;
+	font-size: 20px;
+}
+section span:hover{
+	color:#EC4E8B ;
+}
+audio{
+	width: 200px;
+	height: 30px;
+	text-align: center;
+	margin-top: 10px;
+}
+.musictr3 video {
+/*	width: 350px;*/
+	height: 300px;
+	width: 80%;
+	padding-left: 50px;
+	
+}
+.musictb3 td{
+	width: 50%;
+	text-align: center;
+	
+}
+.musictr4 td{
+	color: #444444;
+	font-size: 24px;
+	text-align: center;
+
+}
+.musictr4 img{
+	width: 80%;
+	height: 400px;
+}

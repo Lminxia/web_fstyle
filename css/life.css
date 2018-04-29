@@ -1,0 +1,47 @@
+
+.lifetr1 td{
+	font-size: 30px;
+	color: #444444;
+	text-indent: 30px;
+	padding: 10px;
+}
+.lifetr2 img{
+	width: 80%;
+	height: 500px;
+	
+}
+.lifetr2 td{
+	text-align: center;
+	font-size: 20px;
+	color: #EC4E8B;
+}
+
+.lifetr3 td{
+	text-align: center;
+	color: #444444;
+	font-size: 22px;
+	padding-top: 25px;
+	
+}
+.lifetr4 img{
+	width: 80%;
+	height: 250px;
+}
+.lifetr4 td{
+	text-align: center;
+}
+.lifetr5 img{
+	width: 80%;
+	height: 350px;
+}
+.lifetr5 td{
+	text-align: center;
+}
+.lifetr6 img{
+	width: 40%;
+	height: 300px;
+	
+}
+.lifetr6 td{
+	text-align: center;		
+}

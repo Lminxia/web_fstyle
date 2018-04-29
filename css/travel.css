@@ -1,0 +1,56 @@
+
+.setab1{
+	margin: auto;
+}
+.setr0 td{
+	text-align: center;
+	
+}
+.setr0 img{
+	width: 300px;
+	height: 350px;
+}
+.setr1 img{
+	width: 300px;
+	height: 250px;
+}
+
+.setr1 td{
+	width: 350px;
+	height: 300px;
+	margin: 50px;
+}
+
+.setr2 img{
+	width: 400px;
+	height: 300px;
+}
+.setr2 td{
+	width: 450px;
+	height: 300px;
+	margin: 50px;
+}
+.setr3 img {
+	width: 600px;
+	height: 400px;
+	
+}
+.setr3 td{
+	text-align: center;
+	
+}
+.setr4 img{
+	width: 250px;
+	height: 300px;
+	
+}
+.setr4 td
+{
+	height: 400px;
+	text-align: center;
+	vertical-align: middle;
+}
+.setr5 td{
+	text-indent: 20px;
+	padding:0px 80px 10px;
+}

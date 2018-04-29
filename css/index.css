@@ -1,0 +1,45 @@
+
+table{
+	color: #444444;
+	
+}
+.indextr1 td{
+	color:#444444;
+	font-size: 28px;
+	padding: 20px;
+}
+.indextr2 td{
+	text-align: center;
+	color: #444444;
+	font-size: 20px;
+}
+
+.indextr3 td{
+	text-align: center;
+}
+
+.indexdiv1 img{
+	width: 200px;
+	height: 250px;
+	
+}
+.indexdiv2 img{
+	width: 250px;
+	height: 300px;
+}
+.indextr4 td{
+	text-align: center;
+	color: #444444;
+	font-size: 18px;
+}
+.indextr4 img{
+	width: 300px;
+	height: 250px;
+}
+.indextr4 div{
+	float: left;
+}
+.artdiv1 img{
+	width: 35%;
+	height: 250px;
+}

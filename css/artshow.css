@@ -1,0 +1,167 @@
+
+section span{
+	display: block;
+	font-size: 30px;
+	margin: 20px 0 0 30px;
+	color: #444444;
+
+}
+h2{
+	text-indent: 50px;
+	color: #444444;
+	font-family:"comic sans ms";
+}
+.seul1 li{
+	float: left;
+	list-style-type: none;
+	text-align: center;
+	
+}
+
+.sediv1 img{
+	width:200px;
+	height: 150px;
+	float: left;
+}
+
+.sediv0{
+	width:90%;
+	overflow: hidden;
+	margin: 0 auto;
+}
+.sediv1{	
+	width: 420%;
+	position: relative;
+	animation: swing 20s linear infinite alternate;
+}
+@keyframes swing{
+
+	from{left: 0px;}
+	to{left: -1600px;}
+}
+
+
+.arsdiv1{
+	float: left;
+	width: 60%;
+}
+.arsdiv1 img{
+	width: 40%;
+	height: 150px;
+	padding:20px 0 0 40px;
+}
+.arsdiv2{
+	float: left;
+	width: 35%;
+	padding: 50px 0 0 15px;
+	color: #444444;
+	font-size: 20px;
+}
+
+.arsdiv3{
+	color: #444444;
+	font-size: 20px;
+	padding: 15px 35px 0 35px;
+	float: left;
+}
+
+
+
+
+
+			.box{
+				width: 100%;
+				height: 200px;	
+				margin: 250px auto;
+				position: relative;
+				
+			}
+
+			.box0{
+				width: 200px;
+				height: 200px;
+				margin:100px auto;
+				transform-style: preserve-3d;
+				transform: rotateX(-30deg) rotateY(-80deg);
+				animation: eddy 20s linear infinite;	
+					
+			}
+	
+			@-webkit-keyframes eddy{
+				from{transform: rotateX(0deg) rotateY(0deg);}
+				to{transform: rotateX(360deg) rotateY(360deg);}
+			}
+			
+			.box1 img{
+				
+				width:200px;
+				height:200px;				
+				transform-origin: center;	
+				position: absolute;
+				opacity: 0.8;
+				transition: all 0.4s;
+			}
+			.oq{
+				transform: rotateY(90deg) translateZ(100px);
+			}
+			.oh{
+				transform: rotateY(-90deg) translateZ(100px);
+			}
+			.os{
+				transform: rotateX(90deg) translateZ(100px);
+			}
+			.ox{
+				transform:rotateX(-90deg) translateZ(100px);
+			}
+			.oz{
+				transform: translateZ(100px);
+			}
+			.oy{
+				transform: translateZ(-100px);
+			}
+			
+			.box0:hover .oq{
+				transform: rotateY(90deg) translateZ(200px);
+			} 
+			.box0:hover .oh{
+				transform: rotateY(-90deg) translateZ(200px);
+			}
+			.box0:hover .os{
+				transform: rotateX(90deg) translateZ(200px);
+			}
+			.box0:hover .ox{
+				transform:rotateX(-90deg) translateZ(200px);
+			}
+			.box0:hover .oz{
+				transform: translateZ(200px);
+			}
+			.box0:hover .oy{
+				transform: translateZ(-200px);
+			}
+			
+			.box2 img{
+				width: 100px;
+				height: 100px;
+				position: absolute;
+				margin: 50px;
+			}
+			
+			.iq{
+				transform: rotateY(90deg) translateZ(50px);
+			}
+			.ih{
+				transform: rotateY(-90deg) translateZ(50px);
+			}
+			.is{
+				transform: rotateX(90deg) translateZ(50px);
+			}
+			.ix{
+				transform:rotateX(-90deg) translateZ(50px);
+			}
+			.iz{
+				transform: translateZ(50px);
+			}
+			.iy{
+				transform: translateZ(-50px);
+			}
+			

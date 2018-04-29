@@ -1,0 +1,58 @@
+
+
+.readsp1{
+	font-size: 30px;
+	margin-left: 30px;
+	color: #444444;
+	margin-top: 20px;
+}
+.readdiv1{
+margin-top:60px ;
+width: 100%;
+
+	
+}
+ iframe{
+	width: 90%;
+	height: 550px;
+	margin-left: 5%;
+	
+}
+.readh2 {
+	text-align: center;
+	color:#444444;
+}
+.readspan{
+	color: #444444;
+	font-size: 20px;
+	line-height: 30px;
+	margin: 0 10%;
+	display: block;
+}
+.readdiv2 td{
+	width: 40%;
+	text-align: center;
+	
+}
+
+.readdiv2 td img{
+	width: 60%;
+	height: 200px;
+	margin: 20px 0;
+	
+}
+details{
+	border:none;
+}
+details summary{
+	font-size: 24px;
+	color: #EC4E8B;
+	line-height: 40px;
+	padding-left: 20px;
+}
+
+
+.readimg img{
+	margin: 0 20%;
+	
+}
